@@ -1,16 +1,18 @@
 ---
 layout: default
-title: Contact Long Haul
+title: Get in touch
 ---
 
 <div id="contact">
-  <h1 class="pageTitle">Contact Me</h1>
+  <h1 class="pageTitle">Get in Touch</h1>
   <div class="contactContent">
-    <p class="intro">This is an example Contact page. If you want to make changes then do so in the <code>contact.html</code> file.</p>
-    <p>The form is provided by <a href="http://formspree.io/">Formspree.</a> Follow the directions on their site to set up the form for use.</p>
-    <p>If you have questions about the theme feel free to <a href="mailto:brimaidesigns@gmail.com">email me</a> or create an issue on <a href="https://github.com/brianmaierjr/long-haul">GitHub</a>. Enjoy!</p>
+    <p class="intro">Weibo: Pascal_Tech</p>
+    <p class="intro">WeChat: Pascal_Tech</p>
+    <p class="intro">Phone: 6078000</p>
+  
+    <p>If you have questions about us feel free to <a href="mailto:hi@pascal.ltd">email us</a> or send us a message on the left. Thanks!</p>
   </div>
-  <form action="http://formspree.io/your@mail.com" method="POST">
+  <form action="http://formspree.io/hi@pascal.ltd" method="POST">
     <label for="name">Name</label>
     <input type="text" id="name" name="name" class="full-width"><br>
     <label for="email">Email Address</label>
