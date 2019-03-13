@@ -12,7 +12,8 @@ title: Get in touch
   
     <p>If you have questions about us feel free to <a href="mailto:hi@pascal.ltd">email us</a> or send us a message on the left. Thanks!</p>
   </div>
-  <form action="http://formspree.io/hi@pascal.ltd" method="POST">
+  
+  <form method="POST" action="https://formspree.io/hi@pascal.ltd">
     <label for="name">Name</label>
     <input type="text" id="name" name="name" class="full-width"><br>
     <label for="email">Email Address</label>
